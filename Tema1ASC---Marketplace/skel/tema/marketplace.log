@@ -1,0 +1,128 @@
+2023-04-21 11:35:33,165 - root - INFO - Cart with id 0 was created!
+2023-04-21 11:35:33,165 - root - INFO - product1 was not added to cart 0
+2023-04-21 11:35:33,166 - root - INFO - Producer with id 0 started!
+2023-04-21 11:35:33,166 - root - INFO - Producer 0 published product1
+2023-04-21 11:35:33,166 - root - INFO - product1 was added to cart 0
+2023-04-21 11:35:33,166 - root - INFO - Cart with id 0 was created!
+2023-04-21 11:35:33,166 - root - INFO - Cart with id 1 was created!
+2023-04-21 11:35:33,166 - root - INFO - Cart with id 0 was created!
+2023-04-21 11:35:33,166 - root - INFO - Producer with id 0 started!
+2023-04-21 11:35:33,166 - root - INFO - Producer 0 published product1
+2023-04-21 11:35:33,166 - root - INFO - product1 was added to cart 0
+2023-04-21 11:35:33,166 - root - INFO - Cart with id 1 was created!
+2023-04-21 11:35:33,167 - root - INFO - Producer with id 1 started!
+2023-04-21 11:35:33,167 - root - INFO - Producer 1 published product2
+2023-04-21 11:35:33,167 - root - INFO - product2 was added to cart 1
+2023-04-21 11:35:33,167 - root - INFO - Producer with id 0 started!
+2023-04-21 11:35:33,167 - root - INFO - Producer 0 published product1
+2023-04-21 11:35:33,167 - root - INFO - Producer 0 published product2
+2023-04-21 11:35:33,167 - root - INFO - Producer 0 published product3
+2023-04-21 11:35:33,168 - root - INFO - Producer with id 0 started!
+2023-04-21 11:35:33,168 - root - INFO - Cart with id 0 was created!
+2023-04-21 11:35:33,168 - root - INFO - Producer with id 0 started!
+2023-04-21 11:35:33,169 - root - INFO - Producer 0 published product1
+2023-04-21 11:35:33,169 - root - INFO - product1 was added to cart 0
+2023-04-21 11:35:33,169 - root - INFO - product1 was removed from cart 0
+2023-04-21 12:50:21,440 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:21,440 - root - INFO - product1 was not added to cart 0
+2023-04-21 12:50:21,440 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:21,440 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:21,440 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:21,441 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:21,441 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:50:21,441 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:21,441 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:21,441 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:21,441 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:21,441 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:50:21,441 - root - INFO - Producer with id 1 started!
+2023-04-21 12:50:21,442 - root - INFO - Producer 1 published product2
+2023-04-21 12:50:21,442 - root - INFO - product2 was added to cart 1
+2023-04-21 12:50:21,442 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:21,442 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:21,443 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:21,443 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:21,444 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:21,444 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:21,444 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:21,444 - root - INFO - product1 was removed from cart 0
+2023-04-21 12:50:44,339 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:44,339 - root - INFO - product1 was not added to cart 0
+2023-04-21 12:50:44,339 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:44,339 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:44,340 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:44,340 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:44,340 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:50:44,340 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:44,340 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:44,340 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:44,340 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:44,340 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:50:44,340 - root - INFO - Producer with id 1 started!
+2023-04-21 12:50:44,341 - root - INFO - Producer 1 published product2
+2023-04-21 12:50:44,341 - root - INFO - product2 was added to cart 1
+2023-04-21 12:50:44,341 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:44,341 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:44,341 - root - INFO - Producer 0 published product2
+2023-04-21 12:50:44,341 - root - INFO - Producer 0 published product3
+2023-04-21 12:50:44,341 - root - INFO - Producer 0 did not manage to publish product4
+2023-04-21 12:50:44,341 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:44,342 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:50:44,342 - root - INFO - Producer with id 0 started!
+2023-04-21 12:50:44,342 - root - INFO - Producer 0 published product1
+2023-04-21 12:50:44,342 - root - INFO - product1 was added to cart 0
+2023-04-21 12:50:44,342 - root - INFO - product1 was removed from cart 0
+2023-04-21 12:54:29,804 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:54:29,805 - root - INFO - product1 was not added to cart 0
+2023-04-21 12:54:29,805 - root - INFO - Producer with id 0 started!
+2023-04-21 12:54:29,805 - root - INFO - Producer 0 published product1
+2023-04-21 12:54:29,805 - root - INFO - product1 was added to cart 0
+2023-04-21 12:54:29,805 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:54:29,805 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:54:29,805 - root - INFO - Cart with id 2 was created!
+2023-04-21 12:54:29,806 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:54:29,806 - root - INFO - Producer with id 0 started!
+2023-04-21 12:54:29,806 - root - INFO - Producer 0 published product1
+2023-04-21 12:54:29,806 - root - INFO - product1 was added to cart 0
+2023-04-21 12:54:29,806 - root - INFO - Cart with id 1 was created!
+2023-04-21 12:54:29,806 - root - INFO - Producer with id 1 started!
+2023-04-21 12:54:29,806 - root - INFO - Producer 1 published product2
+2023-04-21 12:54:29,806 - root - INFO - product2 was added to cart 1
+2023-04-21 12:54:29,807 - root - INFO - Producer with id 0 started!
+2023-04-21 12:54:29,807 - root - INFO - Producer 0 published product1
+2023-04-21 12:54:29,807 - root - INFO - Producer 0 published product2
+2023-04-21 12:54:29,807 - root - INFO - Producer 0 published product3
+2023-04-21 12:54:29,807 - root - INFO - Producer 0 did not manage to publish product4
+2023-04-21 12:54:29,807 - root - INFO - Producer with id 0 started!
+2023-04-21 12:54:29,808 - root - INFO - Cart with id 0 was created!
+2023-04-21 12:54:29,808 - root - INFO - Producer with id 0 started!
+2023-04-21 12:54:29,808 - root - INFO - Producer 0 published product1
+2023-04-21 12:54:29,808 - root - INFO - product1 was added to cart 0
+2023-04-21 12:54:29,808 - root - INFO - product1 was removed from cart 0
+2023-04-21 20:27:45,050 - root - INFO - Cart with id 0 was created!
+2023-04-21 20:27:45,051 - root - INFO - product1 was not added to cart 0
+2023-04-21 20:27:45,051 - root - INFO - Producer with id 0 started!
+2023-04-21 20:27:45,051 - root - INFO - Producer 0 published product1
+2023-04-21 20:27:45,051 - root - INFO - product1 was added to cart 0
+2023-04-21 20:27:45,051 - root - INFO - Cart with id 0 was created!
+2023-04-21 20:27:45,051 - root - INFO - Cart with id 1 was created!
+2023-04-21 20:27:45,051 - root - INFO - Cart with id 2 was created!
+2023-04-21 20:27:45,051 - root - INFO - Cart with id 0 was created!
+2023-04-21 20:27:45,051 - root - INFO - Producer with id 0 started!
+2023-04-21 20:27:45,051 - root - INFO - Producer 0 published product1
+2023-04-21 20:27:45,052 - root - INFO - product1 was added to cart 0
+2023-04-21 20:27:45,052 - root - INFO - Cart with id 1 was created!
+2023-04-21 20:27:45,052 - root - INFO - Producer with id 1 started!
+2023-04-21 20:27:45,052 - root - INFO - Producer 1 published product2
+2023-04-21 20:27:45,052 - root - INFO - product2 was added to cart 1
+2023-04-21 20:27:45,052 - root - INFO - Producer with id 0 started!
+2023-04-21 20:27:45,052 - root - INFO - Producer 0 published product1
+2023-04-21 20:27:45,052 - root - INFO - Producer 0 published product2
+2023-04-21 20:27:45,052 - root - INFO - Producer 0 published product3
+2023-04-21 20:27:45,052 - root - INFO - Producer 0 did not manage to publish product4
+2023-04-21 20:27:45,052 - root - INFO - Producer with id 0 started!
+2023-04-21 20:27:45,053 - root - INFO - Cart with id 0 was created!
+2023-04-21 20:27:45,053 - root - INFO - Producer with id 0 started!
+2023-04-21 20:27:45,053 - root - INFO - Producer 0 published product1
+2023-04-21 20:27:45,053 - root - INFO - product1 was added to cart 0
+2023-04-21 20:27:45,053 - root - INFO - product1 was removed from cart 0
